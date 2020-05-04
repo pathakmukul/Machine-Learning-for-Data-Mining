@@ -21,3 +21,7 @@ implement the following three methods to determine the best hyperparameters to u
 This is a typical application of the Lasso penalty. In many applications, especially with
 high dimensional data (too many predictors, too few observations), a first step is to screen
 out useless features, and Lasso is an excellent tool for that.
+
+Developed bu:
+Hema Vivekanandan: https://github.com/Hema23294
+Mukul Pathak: https://github.com/pathakmukul
